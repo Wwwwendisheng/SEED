@@ -1,4 +1,4 @@
-CUDA_VISIBLE_DEVICES=0 python main.py \
+CUDA_VISIBLE_DEVICES=0 python SEED/main.py \
   --test_data_dir /path/to/your/evaluation/lmdb/path \
   --batch_size 128 \
   --workers 0 \
