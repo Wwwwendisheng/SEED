@@ -1,6 +1,6 @@
 from __future__ import absolute_import
 import sys
-sys.path.append('./')
+sys.path.append('./SEED/')
 
 import argparse
 import os
