@@ -1,4 +1,4 @@
-absl-py==0.7.1
+absl-py==0.14.1
 addict==2.2.1
 albumentations==0.4.3
 astor==0.8.0
